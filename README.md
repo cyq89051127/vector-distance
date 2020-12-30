@@ -3,6 +3,7 @@ In this project, you can compute the distance between vectors using Cosine-Dista
 
 
 Method to config distance computer :
+
     set computer to cosine or eulidean, the default value is eulidean
     {
             "from": 0,
